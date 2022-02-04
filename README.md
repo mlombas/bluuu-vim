@@ -1,2 +1,2 @@
 # BLUU colorcheme for vim
-Created with [https://vimcolors.org/](vimcolors)
+Created with [vimcolors](https://vimcolors.org/)
